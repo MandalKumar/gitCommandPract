@@ -247,7 +247,7 @@ What is git stash command ?
 
 $ git stash
 
-$ git stash apply
+$ git stash apply   (Use this command  to back our task-320 )
 
 Usecase : 
 ----------
